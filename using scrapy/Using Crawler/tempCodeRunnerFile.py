@@ -1,0 +1,1 @@
+##scrapy runspider transcript.py -o transcript.csv
